@@ -1,7 +1,14 @@
-package.json 
+#vue2x-es6-webpack-bolierplate
+
+一套自用的 vue2.x + es6 + webpack 的模版
+
+#package.json 说明
   
+  -- 下面仅是一些随意的纪录，后续会整理
+  index.html 生成
   html-webpack-plugin
 
+  webpack 相关
   webpack
   webpack-dev-server
   webpack-merge
@@ -39,3 +46,5 @@ node -v
 v6.3.0
 npm -v
 3.10.3
+
+
