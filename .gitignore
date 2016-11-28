@@ -1,7 +1,1 @@
-node_modules/
-dist/
-.DS_Store
-resource/
-build.zip
-.idea/
-resources/
+./node_modules
